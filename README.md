@@ -1,6 +1,6 @@
 PIXEL
 
-Projet universitaire réalisée dans le cadre du cours sur les structures de données. 
+Projet universitaire réalisé dans le cadre du cours sur les structures de données. Une partie du code est issu de monsieur Eric Dallaire, enseignant la matière.
 
 L'objectif était d'implémenter le conteneur de type vecteur. 
 
